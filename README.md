@@ -2,7 +2,7 @@
 
 ### Instalação: 
 ```bash
-pip install requirements.txt
+pip install -U duckduckgo_search
 ```
 
 
