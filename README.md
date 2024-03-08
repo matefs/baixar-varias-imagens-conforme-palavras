@@ -1,5 +1,10 @@
 ## instruções de uso : 
 
+### Instalação: 
+```bash
+pip install requirements.txt
+```
+
 
 #### Baixar imagens: 
 ./baixar-palavras.sh palavra1 palavra2 palavra3
