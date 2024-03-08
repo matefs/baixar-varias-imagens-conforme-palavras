@@ -1,5 +1,10 @@
 ## instruções de uso : 
 
+### Requirements: 
+```
+- python >= 3.0 
+```
+
 ### Instalação: 
 ```bash
 pip install -U duckduckgo_search
